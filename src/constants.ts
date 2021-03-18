@@ -1,0 +1,9 @@
+export const DATA_INTERVAL = 1000;
+export const SCORE_INTERVAL = 20;
+export const SCORE_INTERVAL_NUMBER = 10;
+export const SCORE_DIVISOR = 10;
+export const RANDOM_MAX = 2000;
+export const RANDOM_MIN = 500;
+export const NUMERATOR = 1;
+export const DENOMINATOR = 3;
+export const RANKING_COLOR = ['#f54545', '#ff8547', '#ffac38'];
